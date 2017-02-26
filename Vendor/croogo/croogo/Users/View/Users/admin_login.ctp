@@ -1,6 +1,6 @@
 <?php echo $this->Form->create('User', array('url' => array('controller' => 'users', 'action' => 'login')));?>
-<div class="box">
-	<div class="box-content">
+<div class="box" style="border-radius: 10px; max-width: 400px; width: 380px;">
+	<div class="box-content" style="text-align: center;">
 	<?php
 		$this->Form->inputDefaults(array(
 			'label' => false,
