@@ -1,0 +1,67 @@
+{
+    "Site": {
+        "acl_plugin": "Acl",
+        "admin_theme": "",
+        "asset_timestamp": "force",
+        "email": "contact@capmaroc.com",
+        "feed_url": "",
+        "home_url": "/admin",
+        "ipWhitelist": "127.0.0.1",
+        "locale": "fra",
+        "status": 1,
+        "tagline": "Ministère de l’Agriculture et de la Pêche maritime, devenir conseiller agricole agrée",
+        "theme": "Cap",
+        "timezone": "UTC",
+        "title": "Ministère de l’Agriculture et de la Pêche maritime",
+        "direction": "ltr",
+        "is_responsive": 1
+    },
+    "Croogo": {
+        "Api": {
+            "path": "api"
+        },
+        "dashboardUrl": {
+            "admin": true,
+            "plugin": "dashboard",
+            "controller": "dashboards",
+            "action": "index"
+        },
+        "installed": 1,
+        "version": "2.2.2"
+    },
+    "Hook": {
+        "bootstraps": "Settings,Users,Blocks,RequestManagment,ProfileManagment,AddressesManagement,CompanyManagment,MessageManagment,UserManagment,CalendarManagment,Dashboard"
+    },
+    "Access Control": {
+        "autoLoginDuration": "+1 week",
+        "models": "",
+        "multiRole": 0,
+        "rowLevel": 0
+    },
+    "Reading": {
+        "date_time_format": "D, M d Y H:i:s",
+        "nodes_per_page": 5
+    },
+    "Service": {
+        "akismet_key": "your-key",
+        "akismet_url": "http://your-blog.com",
+        "recaptcha_private_key": "your-private-key",
+        "recaptcha_public_key": "your-public-key"
+    },
+    "Meeting": {
+        "meeting_member_dismiss_body": "Vous êtes révoqué du réunion de traitement des demandes d' agréement planifié le {1}. ",
+        "meeting_invitation_email_body": "Vous êtes conviés à la réunion de traitement des demandes d' agéement",
+        "invitation_email_subject": "Réunion de traitement des demandes d'agréement",
+        "invitation_email_body": "Vous êtes conviés à la réunion de traitement des demandes d' agéement",
+        "meeting_invitation_email_body_edition": "La réunion de traitement des demandes d'agréement du {0} à été repalnifié le {1}",
+        "invitation_email_body_edition": "La réunion de traitement des demandes d'agréement du {0} à été repalnifié le {1}",
+        "invitation_email_subject_edition": "Changement de la date de réunion",
+        "cancellation_email": "La réunion de traitement des demandes d'agréement palnifié le {1} a été annulé.",
+        "member_dismiss_subject": "Révocation de la liste des invitées au réunion de traitement des dossiers des agréements ",
+        "member_dismiss_body": "Vous êtes révoqué du réunion de traitement des demandes d' agréement planifié le {1}. ",
+        "schuduled_request_body_edition": "<p>Bonjour</p>,\r\n<p>Les dossiers planifier pour la réunion du {1} ont été modifié </p>\r\n<p>ci-dessous les numéros des dossiers à traitées</p>\r\n{2}",
+        "schuduled_request_subject_edition": "Changement des demandes à traiter durant la réunion",
+        "cancellation_email_body": "La réunion de traitement des demandes d'agréement palnifié le {1} a été annulé.",
+        "cancellation_email_subject": "Annulation d'une réunion"
+    }
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Adresses Management",
+	"description": "Gestion des Adresses",
+
+	"author": "Gps Team",
+	"authorEmail": "contacts@gps-maroc.ma",
+	"authorUrl": "http://gps-maroc.ma",
+
+	"dependencies": {
+		"plugins": [
+			"acl",
+			"extensions"
+		]
+	}
+}

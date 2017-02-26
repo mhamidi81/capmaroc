@@ -1,0 +1,15 @@
+{
+	"name": "UserManagement",
+	"description": "Gestion des utilisateurs",
+
+	"author": "Khalid dalily",
+	"authorEmail": "k.dalily@gmail.com",
+	"authorUrl": "http://example.com",
+
+	"dependencies": {
+		"plugins": [
+			"acl",
+			"extensions"
+		]
+	}
+}

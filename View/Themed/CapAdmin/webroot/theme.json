@@ -1,0 +1,43 @@
+{
+	"name": "CapAdmin",
+	"description": "Twitter Bootstrap 3 port of the croogo admin theme",
+	"screenshot": "screenshot.png",
+	"author": "Manuel Tancoigne",
+	"authorEmail": "cms@experimentslabs.com",
+	"authorUrl": "experimentslabs.com",
+	"menus": [
+		"main",
+		"footer"
+	],
+	"regions": [
+		"right"
+	],
+	"settings": {
+		"prefixes" : {
+			"admin" : {
+				"helpers" : {"CapTheme" : {"className" : "CapTheme"}}
+			}
+		},
+		"css": {
+			"container": "container-fluid",
+			"row": "row-fluid",
+			"tableClass": "table table-stripped",
+			"columnFull": "col-md-12",
+			"columnLeft": "col-sm-8",
+			"columnRight": "col-sm-4",
+			"formInput": "form-control",
+			"addonClass": "input-group"
+		},
+		"iconDefaults": {
+			"classDefault": "fa",
+			"largeIconClass": "fa-lg",
+			"smallIconClass": "",
+			"classPrefix": "fa-"
+		},
+		"icons": {
+			"check-mark": "check",
+			"delete": "trash",
+			"power-off": "power-off"
+		}
+	}
+}

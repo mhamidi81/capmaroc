@@ -1,0 +1,1 @@
+<?php Configure::write('site_contact_email', 'contact@gmail.com'); ?>

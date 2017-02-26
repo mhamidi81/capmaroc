@@ -1,0 +1,15 @@
+{
+	"name": "CompanyManagment",
+	"description": "Gestion des entreprises",
+
+	"author": "Khalid Dalily",
+	"authorEmail": "author@example.com",
+	"authorUrl": "http://example.com",
+
+	"dependencies": {
+		"plugins": [
+			"acl",
+			"extensions"
+		]
+	}
+}

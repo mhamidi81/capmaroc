@@ -1,0 +1,15 @@
+{
+	"name": "Request Management",
+	"description": "Gestion des demandes",
+
+	"author": "Khalid dalily",
+	"authorEmail": "k.dalily@gmail.com",
+	"authorUrl": "http://example.com",
+
+	"dependencies": {
+		"plugins": [
+			"acl",
+			"extensions"
+		]
+	}
+}

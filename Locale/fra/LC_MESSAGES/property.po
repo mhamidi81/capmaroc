@@ -1,0 +1,175 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Project-Id-Version: Gestion Patrimoines\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ELBAKAI Mustapha <m.elbakai@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Created"
+msgstr "Créé"
+
+msgid "Created by"
+msgstr "Créé par"
+
+msgid "Updated"
+msgstr "Modifiée"
+
+msgid "Updated by"
+msgstr "Modifiée par"
+
+msgid "Observations"
+msgstr "Observations"
+
+msgid "Settings"
+msgstr "Paramètres"
+
+msgid "Statuses"
+msgstr "Statuses"
+
+msgid "Status name"
+msgstr "Nom du status"
+
+msgid "Group name"
+msgstr "Nom du groupe"
+
+msgid "Groups"
+msgstr "Groupes"
+
+msgid "Contracts list by activity"
+msgstr "Liste des contrats par activité"
+
+msgid "Properties list by group"
+msgstr "Les patrimoines d'un groupe"
+
+msgid "Properties list by type"
+msgstr "Les patrimoines d'un type"
+
+msgid "Properties list by status"
+msgstr "Les patrimoines d'un status"
+
+msgid "Select group"
+msgstr "Choisir un groupe"
+
+msgid "Group"
+msgstr "Groupe"
+
+msgid "Property types"
+msgstr "Types"
+
+msgid "Property type"
+msgstr "Type"
+
+msgid "Type name"
+msgstr "Nom du type"
+
+msgid "Budgetary chapter"
+msgstr "Chapitre budgétaire"
+
+msgid "Percentage increase"
+msgstr "% d'augmentation"
+
+msgid "Activities"
+msgstr "Activités"
+
+msgid "Activity name"
+msgstr "Nom d'activité"
+
+msgid "Activity"
+msgstr "Activité"
+
+msgid "Personnes"
+msgstr "Personnes"
+
+msgid "Personne"
+msgstr "Personne"
+
+msgid "Fullname"
+msgstr "Nom et Prénom"
+
+msgid "Cin"
+msgstr "CIN"
+
+msgid "Properties"
+msgstr "Patrimoines"
+
+msgid "Property"
+msgstr "Patrimoine"
+
+msgid "Code"
+msgstr "Code"
+
+msgid "Number"
+msgstr "Numéro"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Address of"
+msgstr "Adresse du"
+
+msgid "Acquisition date"
+msgstr "Date d'acquisition"
+
+msgid "Disposal date"
+msgstr "Date de cession"
+
+msgid "Notification"
+msgstr "Notification"
+
+msgid "This user do not have any active contract"
+msgstr "Cette personne n'a aucun contrat en cours"
+
+msgid "No one is attached to this contract"
+msgstr "Personne n'est attaché à ce contrat"
+
+msgid "Contracts"
+msgstr "Contrats"
+
+msgid "Contract"
+msgstr "Contrat"
+
+msgid "Decision number"
+msgstr "Numéro de décision"
+
+msgid "From"
+msgstr "Du"
+
+msgid "Contract from"
+msgstr "Contrat à partir du"
+
+msgid "To"
+msgstr "Au"
+
+msgid "Price"
+msgstr "Prix"
+
+msgid "Monthly price"
+msgstr "Prix mensuel"
+
+msgid "Price from"
+msgstr "à compter du"
+
+msgid "Monthly price"
+msgstr "Prix mensuel"
+
+msgid "No results found"
+msgstr "Aucun résultat trouvé"
+
+msgid "Prices"
+msgstr ""
+msgid "Prices"
+msgstr ""
+msgid "Prices"
+msgstr ""
+msgid "Prices"
+msgstr ""
+msgid "Prices"
+msgstr ""

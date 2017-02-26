@@ -1,0 +1,16 @@
+TRUNCATE TABLE `rqm_requests_companies`
+TRUNCATE TABLE `rqm_members_requests`
+TRUNCATE TABLE `rqm_meetings_users`
+TRUNCATE TABLE `rqm_meetings_requests`
+TRUNCATE TABLE `rqm_meetings`
+TRUNCATE TABLE `pfm_qualifications`
+TRUNCATE TABLE `pfm_publication_researches`
+TRUNCATE TABLE `pfm_professional_experiences`
+TRUNCATE TABLE `pfm_counselors_specialities`
+TRUNCATE TABLE `pfm_counselors_languages`
+TRUNCATE TABLE `pfm_counselors_documents`
+TRUNCATE TABLE `pfm_community_activities`
+TRUNCATE TABLE `msm_messages`
+TRUNCATE TABLE `cpm_employees`
+TRUNCATE TABLE `cpm_companies_documents`
+TRUNCATE TABLE `cpm_companies_counselors`

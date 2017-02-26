@@ -1,0 +1,87 @@
+Authors ordered by contribution
+
+Rachman Chavik <rchavik@xintesa.com>
+Fahad Ibnay Heylaal <fahad19@gmail.com>
+Kyle Robinson Young <kyle@dontkry.com>
+Damien Biasotto <damien@occi-tech.com>
+Derbois Aymeric <aymeric@occi-tech.com>
+Pierre Martin <pierre@occi-tech.com>
+chadrien <chadrien@chadrien.fr>
+Walther Lalk <emailme@waltherlalk.com>
+mohammadsaleh <mohammadsaleh.sayari@hotmail.com>
+Paul Gardner <phpmagpie@webbedit.co.uk>
+euromark <euromark@web.de>
+Yuan Chavik <yuan@xintesa.com>
+Appsbender <regz24@gmail.com>
+Damien Biasotto <damien@occitech.fr>
+Dimas Abdul Aziiz <dimas@xintesa.com>
+AD7six <andydawson76@gmail.com>
+Eko Tristiyono <eko@xintesa.com>
+Marlin Cremers <m.cremers@cvo-technologies.com>
+Elias Coronado <ecor.rck@hotmail.com>
+Jonas <fwd_github@jonas-hartmann.com>
+Liam Keily <liam@simplywebsites.com>
+Mike Tallroth <mike.tallroth@gmail.com>
+SCV Geo <scv@scvgeo.com>
+Heiner Gassen <hg@dynweb.net>
+Paulino Calderon <paulino@calder0n.com>
+pinchsoftware <contact@pinchsoft.com>
+Ceeram <c33ram@gmail.com>
+Grégory Salvan <gregory@occi-tech.com>
+Hadrien Collongues <chadrien@chadrien.fr>
+Ivan <gsitex@gmail.com>
+John <john@midianegocios.com.br>
+Lukas Marks <lukas.marks@lumax-web.de>
+Lukas Strassel <lukasstrassel@googlemail.com>
+Vitor Pacheco <vitor-p.c@hotmail.com>
+elbakai <m.elbakai@gmail.com>
+primeminister <primeminister@mowd.nl>
+ADmad <admad.coder@gmail.com>
+James Sapara <james.sapara@gmail.com>
+Matt Curry <matt@pseudocoder.com>
+Mischa ter Smitten <mischa@tersmitten.nl>
+thoth <thomas.rader@tigerclawtech.com>
+Josué Silva Santos <josue.silva.santos@gmail.com>
+Marek Rodkiewicz <marek.rodkiewicz@infraredgroup.pl>
+cdbruin <casper@ectrader.nl>
+daniel <daniel@daniels-MacBook-Air.local>
+roland-w <roland-w@users.noreply.github.com>
+tmaiaroto <tom@shift8creative.com>
+Adam Taylor <ataylor32@gmail.com>
+Adrien Louis-Rossignol <adrien.louis.r@gmail.com>
+Andrea de la Huerta <info@metamorfosys.de>
+Andrew Weir <andru.weir@gmail.com>
+Arie Sutanto <asutanto@xintesa.com>
+Cezary Nowak <korpirkor@users.noreply.github.com>
+Dirk Brünsicke <d1rk@gmx.de>
+DirtyF <frank.taillandier@gmail.com>
+Gilles Bedel <gilles@occi-tech.com>
+HT-Studios <github@ht-studios.de>
+Jeremy Harris <jeremy@42pixels.com>
+Joachim Nyqvist <Joachim@JNyqvist.se>
+Kory Marks <kory.marks@mac.com>
+Léo Haddad <scoup001@gmail.com>
+Manuel Tancoigne <m.tancoigne@gmail.com>
+Marce Romagnoli <marce.romagnoli@gmail.com>
+Marcin Jóźwikowski <marcin@jozwikowski.pl>
+Marek Sebera <marek.sebera@gmail.com>
+Mike Pagé <mike@nedwave.com>
+Nicholas Craig <nick@threadgroup.com>
+Paulo Pinto <paulorpinto@gmail.com>
+Rakesh Tembhurne <rakesh@tembhurne.com>
+Robbert Noordzij <robbert@xseeding.nl>
+Sam Bernard <sam@sambernard.net>
+SplicePHP <admin@splicephp.com>
+Walther Lalk <dakota@users.noreply.github.com>
+Wiena Lorentz <lorentz@xintesa.com>
+alevilar <alevilar@gmail.com>
+avra911 <razvan@magnify.ro>
+damarev <damarev@gmail.com>
+eryw <kristeryw@gmail.com>
+ingvaar <igorpletenev@gmail.com>
+joseph-d <joseph.d@nirada.co.th>
+kareypowell <kareyp9@gmail.com>
+romaing <pourri@dixit-productions.com>
+sherwinrobles <sherwinrobles@gmail.com>
+stefanozoffoli <stefano.zoffoli@librasoftsnc.it>
+stelioschar <stelioschar@gmail.com>
